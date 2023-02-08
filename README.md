@@ -1,5 +1,5 @@
 # Netflix-Top-Rated-Movies-and-TV-Shows
-IMDb Scores and Votes Based on Production Data
+IMDb Scores and Votes Based on Production Data.
 
 <img src="img/portada.jpg" width=700px>
 
